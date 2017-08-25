@@ -1,0 +1,207 @@
+<?php require_once("math.php"); ?>
+
+<?php
+//plot
+$plotD00 = [
+  "Greed or Glory: PCs hear about a dungeon nearby and how no one dares enter it",
+  "Raiding Monsters: Monsters or evil humanoids attack farmsteads and must be stopped",
+  "Treasure Hunt: An NPC has a treasure map",
+  "Guards: PCs hired to protect merchant caravan through dangerous terrain",
+  "Seek: Locate missing important NPC",
+  "Destroy: Purge a dungeon of monsters",
+  "Underwater Exploration: Map area of sea and explore inland for suitable settling areas",
+  "Mine: Search underground for rich vein of ore or a legendary cache of gems",
+  "Protect: Enhance village defenses and train locals to defend themselves from an impending threat",
+  "Ruins Stir: Secret but good NPCs are searching for holy relic and accidentally stir up undead",
+  "Spies: The PCs are hired to collect information on a nearby group or kingdom",
+  "Investigate: PCs brought in to solve a crime",
+  "Bait and Switch: Monster far beyond the PCs is allegedly behind the plot—can it be true?",
+  "Sacrilege: Confront zealots allegedly carrying out human sacrifices",
+  "Salvage: The crew of a listing merchant ship row ashore claiming that somehow their cargo scuttled the vessel, and that they want nothing more to do with it",
+  "Steal: Work for good-fronted merchant group to steal an object they stole in the first place",
+  "Capture: A rival merchant or guild wishes monster intact to serve as guard",
+  "Escape: During routine adventure PCs are trapped by a rockfall which unleashes horror",
+  "Roundup: A rancher needs extra hands to protect his herd from rustlers as he heads to market",
+  "Execution: The PCs or an ally face a harsh punishment for breaking an unjust or arbitrary law",
+  "Exploration: The PCs quest to explore a new realm, whether it be a continent, underground expanse,plane, or other locale",
+  "Kinslayer: A relative of the ruler plans to claim the throne for his or her own",
+  "Watch: PCs hired by town watch to uncover spies",
+  "On the Run: The PCs must help a goodly creature escape those who hunt it",
+  "Monstrous: The locals decide the newly arrived PCs are behind the deaths",
+  "Alliance: Prevent a marriage intended to unite two monster clans without them realizing the sabotage",
+  "Precious Cargo: Someone must keep a monster’s egg safe until it hatches",
+  "Dead Man Walking: A long-dead ally or personality reappears, seemingly alive and unharmed",
+  "Chainbreaker: Find the slaver’s base by getting captured and then escape to get reinforcements",
+  "A Little Knowledge: Someone keeps trying to kill the hapless storyteller; which of his tall tales is actually true?",
+  "Unexpected Event: Earthquake or volcano unleashes horrors onto countryside or settlement",
+  "Reagent: A powerful magic user needs the PCs’ help in tracking down a rare component or ingredient",
+  "Menagerie: Creatures have escaped from a private collection and the PCs are hired to return them",
+  "Courteous Killer: An assassin sends a letter suggesting that the target put his affairs in order",
+  "Plague Run: Find the ingredients that cure the disease and get them back before too many more people die",
+  "Deadly Waters: The river has turned black and toxic— what’s going on upstream?",
+  "Feathered Apocalypse: All the birds are dying and the druids are looking for someone to blame",
+  "Prophecy: A prophecy is due for fulfillment. The PCs must work to fulfill or prevent it",
+  "Animal Enemies: All the usually peaceful animals become killers",
+  "Political: PCs assist local leaders in rooting out evil in their own halls",
+  "Festival: PCs infiltrate performers to uncover a killer",
+  "From Beyond: PCs must prevent plot to summon a powerful outsider",
+  "Incursion: Creatures from another plane infest town and take hostages to experiment upon",
+  "Revenant: Do the PCs stand in the way of an evil avenging spirit intent on wiping out an entire family?",
+  "The Strange Child: Is the changeling really behind the nightmares like the locals say?",
+  "Doppelganger: The PCs or others are seen murdering and stealing and the locals want revenge",
+  "Righteous Indignation: A local tribe of non-evil monsters threatens a community that has trespassed upon their land or otherwise offended them",
+  "Surrounded: PCs find themselves hunted in wilderness. Can they escape and survive?",
+  "Hunted: For some reason everyone thinks the PCs are someone they aren’t. As the city mobilizes to capture and execute them can the PCs get to the bottom of the plot?",
+  "Dragon: A dragon appears in a city and demands tribute. Can the PCs defeat it? Is it real?"
+  ];
+   $plot = Roller($plotD00);
+
+//Table 2–2: Plot Twists
+//d20 Plot Twists
+$twistD20 = [
+  "Altered: PCs undergo some sort of magical transformation during the course of the adventure, and must seek to return to normal (or defend themselves from newly jealous rivals)",
+  "Burden: Something fragile (whether an NPC or object) is vital to the completion of the adventure, such as a delicate crystal or a prophesied child",
+  "Controlled: Someone is secretly under the influence of another, either as an agent of the enemy or keeping an eye on the group for their patron",
+  "Deception: A critical piece of information about the adventure is deliberately false. Old friends become enemies, and enemies become friends. Or is it all just an elaborate act?",
+  "Doubles: One or more of those characters appearing in the adventure (including possibly the PCs) has an imposter or duplicate",
+  "Dual Nature: Someone in the adventure has a second nature or form unknown at the start",
+  "Extraordinary Arena: Some or all of the adventure takes place in an unusual environment",
+  "Impairment: The PCs suffer some sort of disadvantage relative to their foes",
+  "Love Interest: An NPC encountered in the adventure forms a romantic attachment to one of the PCs, not necessarily reciprocated",
+  "Mistaken Identity: One or more of the PCs resembles, or gets treated as, another person",
+  "Natural Obstacle: A formidable barrier stands between the PCs and completing the adventure",
+  "Negotiation: The PCs must make a deal with someone in order to complete the adventure",
+  "Peaceful: Some portion of the adventure requires that the PCs find a non-violent way to solve their problems",
+  "Rivals: A group with similar abilities sets out to oppose the PCs",
+  "Role Reversal: Some portion of the adventure turns out the exact opposite of the PCs’ expectations",
+  "Secret Ally: Someone in the adventure offers aid to the PCs",
+  "Time Limit: The PCs must complete the adventure within a specified duration in order to succeed",
+  "Transported: The PCs are taken somewhere against their will and must return on their own",
+  "Undercover: The PCs must assume new identities and remain “in character” in order to gather information or complete their objective",
+  "Watched: Someone observes the PCs during the course of the adventure, and may interfere with their progress, or attempt to guide them"
+  ];
+   $twist = Roller($twistD20);
+
+//Table 2–3: Macguffins and Quest Items
+//d% Macguffin or Quest Item
+$itemD00 = [
+  "Kidnapped royalty",
+  "Religious idol",
+  "Lost spellbook",
+  "Fountain of youth",
+  "City of gold",
+  "Pirate treasure",
+  "Lost culture",
+  "Weapon of the gods",
+  "Dangerous technology",
+  "Claimant to the throne",
+  "Ancient tomb",
+  "Dragon hoard",
+  "Imprisoned loved one",
+  "Legendary warrior (possibly deceased)",
+  "Placation for angry spirits",
+  "Signet proving noble birth",
+  "Rare spell component",
+  "Forbidden magic",
+  "Ressurection for a slain innocent",
+  "Godhood",
+  "Cure for a plague or curse",
+  "Land grab",
+  "Enlightenment",
+  "Stolen property",
+  "State secrets",
+  "Mythical beast",
+  "Unlimited power source",
+  "Embezzled funds",
+  "Designs for a new weapon",
+  "Ghost ship",
+  "Lich’s phylactery",
+  "Jade statue of a bird",
+  "Long-lost twin",
+  "Lost soul",
+  "Flying machine",
+  "Treasure map",
+  "Sunken island",
+  "Shipwreck",
+  "Lost culture",
+  "Relic from religious figure",
+  "Death (for self or others)",
+  "Hidden master",
+  "New home for displaced people",
+  "Sleeping prince or princess",
+  "Unexplored territory",
+  "Destruction of evil item",
+  "Prophecy and revelation",
+  "Dangerous fugitive",
+  "Portal to another world",
+  "Kidnapped royalty",
+  "Religious idol",
+  "Lost spellbook",
+  "Fountain of youth",
+  "City of gold",
+  "Pirate treasure",
+  "Lost culture",
+  "Weapon of the gods",
+  "Dangerous technology",
+  "Claimant to the throne",
+  "Ancient tomb",
+  "Dragon hoard",
+  "Imprisoned loved one",
+  "Legendary warrior (possibly deceased)",
+  "Placation for angry spirits",
+  "Signet proving noble birth",
+  "Rare spell component",
+  "Forbidden magic",
+  "Ressurection for a slain innocent",
+  "Godhood",
+  "Cure for a plague or curse",
+  "Land grab",
+  "Enlightenment",
+  "Stolen property",
+  "State secrets",
+  "Mythical beast",
+  "Unlimited power source",
+  "Embezzled funds",
+  "Designs for a new weapon",
+  "Ghost ship",
+  "Lich’s phylactery",
+  "Jade statue of a bird",
+  "Long-lost twin",
+  "Lost soul",
+  "Flying machine",
+  "Treasure map",
+  "Sunken island",
+  "Shipwreck",
+  "Lost culture",
+  "Relic from religious figure",
+  "Death (for self or others)",
+  "Hidden master",
+  "New home for displaced people",
+  "Sleeping prince or princess",
+  "Unexplored territory",
+  "Destruction of evil item",
+  "Prophecy and revelation",
+  "Dangerous fugitive",
+  "Portal to another world",
+  "True love",
+  "Answers"
+  ];
+   $item = Roller($itemD00);
+
+?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Quest | Pathfinder | Tables</title>
+  </head>
+  <body>
+    <h2> Quest Giver </h2>
+    <p>
+      <?=$plot?><br>
+      <?=$twist?><br>
+      Macguffins: <?=$item?><br>
+
+    </p><br>
+  </body>
+</html>

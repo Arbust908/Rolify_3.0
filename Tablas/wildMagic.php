@@ -1,0 +1,58 @@
+<?php require_once("math.php"); ?>
+<?php
+//Wild Magic Surge
+$wildMagicD00 = [
+  "Roll on this table at the start of each of your turns for the next minute. Ignore this result on subsequent rolls.",
+  "For the next minute, you can see any invisible creature if you have line of sight to it.",
+  "a modron chosen and controlled by the DM appears in an unoccupied space within 5ft of you, then disappears 1 min later.",
+  "you cast fireball as a 3rd level spell centered on yourself.",
+  "you cast magic missile as a 5th level spell",
+  "roll a d10. your height changes by a number of inches equal to the roll.If the roll is odd, you srink. If the roll is even, you grow.",
+  "you cast confution centered on yourself.",
+  "fot the next minute, you regain 5 hit points at the start of each of your turns.",
+  "you grow a long beard made of feathers that remains you sneeze, at which point the feathers explode out from your face.",
+  "you cast grease centered on yourself",
+  "creatures have disadvantage on saveing throws againt the next spell you cast in the next minute",
+  "your skin turns a vibrant shade of blue. a remove curse spell can end this effect.",
+  "an eye appears on your forehead for the next minute. During that time, you have advantage on wisdom(perseption) checks that relay on sight.",
+  "you teleport up to 60ft to an unoccupied space of your choice that you can see.",
+  "you are teleported to the Astra Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied.",
+  "maximize the damage of the next damaging spell you cast within the next minute.",
+  "roll a d10. Your age changes by a number of years equal to the roll. If odd, you get younger. If the roll is even, you get older.",
+  "1d6 flumphs controlled by the DM appears in a unoccupied spaces within 60ft of you and are frightened of you. They vanish after 1 minute.",
+  "you regain 2d10 hitpoints.",
+  "you turn into a potted plant until the start of your next turn. While a plant, you are incapacitated and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks and your form reverts.",
+  "for the next minute, you can teleport up to 20ft as a bonus action on each of your turns.",
+  "you cast levitate on yourself",
+  "a unicorn controlled by the DM appears in a space within 5ft of you, then disappears 1 minute later.",
+  "you can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth.",
+  "a spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to magic missile.",
+  "you are immune to being intoxicated by alchohol for the next 5d6 days.",
+  "your hair falls out but grows back within 24 hours.",
+  "for the next minute, any flammable object you touch that isn't being worn or carried by another creature bursts into flames.",
+  "you regain your lowest-level expenden spell slot.",
+  "for the next minute, you must shout when you speak.",
+  "you cast fog cloud centered on yourself.",
+  "up to three creatures you choose within 30ft of you take 4d10 lighting damage.",
+  "you are frightened by the nearest creature until the end of your next turn.",
+  "each creature within 30ft of you becomes invisible for the next minute. The invisibility ends on a creature when it attacks or casts a spell.",
+  "you gain resistance to all damage for the next minute",
+  "a random creature within 60 feet of you becomes poisoned for 1d4 hours.",
+  "you glow with bright light in a 30ft radius for the next minute. Any creature that ends its turn within 5ft of you is blinded until the end of its next turn.",
+  "you cast polymorph on yourself. if you fail the saveing throw, you turn into a sheep fot the spell's duration.",
+  "illusory butterflies and flower petals flutter in the air within 10ft of you fot the next minute.",
+  "you can take one additional action immediatly.",
+  "each creature within 30ft of you takes 1d10 necrotic damage. You regain hit points equal to the sum of the necrotic damage dealt.",
+  "you cast mirror image.",
+  "you cast fly on a random creature within 60 feet of you.",
+  "you become invisible for the next minute. During that time, other creatures can't hear you. The invisibility ends if you attack or cast a spell.",
+  "if you die within the next minute, you immediately come back to life as if by the reincarnate spell.",
+  "your size increases by one size category for the next minute.",
+  "you and all creatures within 30ft of you gain vulnerability to piercing damage for the next minute.",
+  "you are surrounded by faint, ethereal music for the next minute.",
+  "you regain all expended sorcery points."
+  ];
+   $wildMagic = Roller($wildMagicD00);
+
+ ?>
+ <h2><?=$wildMagic?></h2>
