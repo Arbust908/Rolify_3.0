@@ -1,0 +1,76 @@
+.container{
+  margin: 0;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 2fr 1fr 5fr 2fr;
+  grid-template-areas:
+  "navbar"
+  "sidebar"
+  "content"
+  "footer"
+}
+
+.navbar{
+  grid-area: navbar;
+  background-color: #c0392b;
+  color: #fff;
+  display: grid;
+
+}
+
+.sidebar{
+  grid-area: sidebar;
+  background-color: #e74c3c;
+  color: #fff;
+  display: none;
+
+}
+
+.content{
+  grid-area: content;
+  background-color: #bdc3c7;
+  display: grid;
+
+}
+
+.footer{
+  grid-area: footer;
+  background-color: #c0392b;
+  color: #fff;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-areas:
+  "rights" "rights" "rights" "rights" "rights"
+  "google" "github" "slack" "youtube" "reddit"
+}
+
+.rights{
+  grid-area: rights;
+}
+
+.fa-google{
+  grid-area: google;
+  color: #f1c40f;
+}
+
+.fa-github-alt{
+  grid-area: github;
+  color: #9b59b6;
+}
+
+.fa-slack{
+  grid-area: slack;
+  color: #2ecc71;
+}
+
+.fa-youtube-play{
+  grid-area: youtube;
+  color: #e74c3c;
+}
+
+.fa-reddit-alien{
+  grid-area: reddit;
+  color: #2c3e50;
+}
