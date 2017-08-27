@@ -9,8 +9,7 @@ class MonstersController extends Controller
 {
     public function randomEncounter(Request $request)
     {
-
-		$encounters = Monster::inRandomOrder()->take(3)->get();
+		$encounters = Monster::where('tipo', 'randomencounter')->inRandomOrder()->take(3)->get();
 
 		if ($request->ajax()) {
 			echo json_encode($encounters);

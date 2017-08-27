@@ -17,6 +17,7 @@ class CreatePlacesTable extends Migration
 			$table->increments('id');
 			$table->string('string');
 			$table->string('tipo');
+			$table->string('dado');
 			$table->timestamps();
 		});
     }
