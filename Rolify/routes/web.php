@@ -27,6 +27,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/randomencounter', 'MonstersController@randomEncounter');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
