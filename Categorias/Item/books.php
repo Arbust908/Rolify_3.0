@@ -35,7 +35,7 @@ $subject = "";
     $extD0 = ["ancient","forbidden","exotic","grammar and punctuation","translations","traveler's phrases"];
     $subject = "languages : ". Roller($extD0);
   } elseif ($roll == 11) {
-    $extD0 = ["adventure","fairy tales, 3. folk tales, 4. murder mystery","romance","satire"];
+    $extD0 = ["adventure","fairy tales", "folk tales", "murder mystery","romance","satire"];
     $subject = "literary fiction : ". Roller($extD0);
   } elseif ($roll == 12) {
     $extD0 = ["gems","metals","mining sties","strategy","rocks","smithing"];

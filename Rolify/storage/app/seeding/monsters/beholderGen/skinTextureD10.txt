@@ -1,0 +1,11 @@
+beholderGen
+pebbled
+pebbled
+pitted
+plated
+plated
+scaled
+smooth
+smooth
+warty
+wrinkled

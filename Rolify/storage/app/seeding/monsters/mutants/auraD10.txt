@@ -1,0 +1,11 @@
+mutants
+"befuddlement",
+"crackling lightning",
+"darkness",
+"decay",
+"flames",
+"freezing cold",
+"madness",
+"mists",
+"sleepiness",
+"terror",

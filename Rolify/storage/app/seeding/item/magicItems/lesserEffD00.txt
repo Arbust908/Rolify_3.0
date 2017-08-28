@@ -1,0 +1,99 @@
+magicItems
+This item glows when within 100 ft of demons
+This item glows when within 100 ft of elementals
+This item glows when within 100 ft of devils
+This item glows when within 100 ft of abberations
+This item glows when within 100 ft of fey
+While attuned to this item whenever you make an Acrobatics check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make an Athletics check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make a Deception check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make a History check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make an Insight check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make an Intimidation check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make an Investigation check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make a Medicine check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make a Nature check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make a Perception check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make a Performance check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make a Persuasion check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make a Religion check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make a Sleight of Hand check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make a Stealth check roll an additional d4 and add that value to your result
+While attuned to this item whenever you make a Survival check roll an additional d4 and add that value to your result
+Whille attuned to this item you gain proficiency in Stealth. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Survival. If you are already proficient in this skill you gain expertise in it instead
+While attuned to this item you can't be charmed. Small ethereal hearts float above your head
+While attuned to this item you can't be frightened. Small ethereal skulls float above your head
+While attuned to this item you can't be poisoned. Small vials of poison float over your head
+While attuned to this item you have resistance to thunder damage. A tiny air elemental follows you around
+While attuned to this item you have resistance to lightning damage. A small storm cloud follows you around
+While attuned to this item you have resistance to fire damage. A tiny fire elemental follows you around
+While attuned to this item you have resistance to cold damage. A tiny ice elemental follows you around
+While attuned to this item you have resistance to poison damage. A tiny poison cloud hovers over your head
+While attuned to this item you have resistance to acid damage. A small ooze creature follows you around
+While attuned to this item you have resistance to force damage. A small mana wyrm follows you around
+While attuned to this item you have resistance to psychic damage. A flumph follows you around
+While attuned to this item you have resistance to radiant damage. A tiny angelic creature follows you around
+While attuned to this item you have resistance to necrotic damage. A tiny skeleton follows you around
+While attuned to this item you can cast Prestigidation at will
+While attuned to this item you can cast Mage Hand at will
+While attuned to this item you can cast Dancing Lights at will
+While attuned to this item you can cast Message at will
+While attuned to this item a pint of beer has the same effect as a minor healing potion for you
+While attuned to this item add an additional 1d10 lightning damage to any critical hit. This ite crackles with electricity
+While attuned to this item add an additional 1d10 fire damage to any critical hit. This item occasionally sends off licks of flame
+While attuned to this item add an additional 1d10 cold damage to any critical hit. This item appears to be frozen
+While attuned to this item add an additional 1d10 poison damage to any critical hit. This item exudes black fumes
+While attuned to this item add an additional 1d10 acid damage to any critical hit. This item drips acid
+While attuned to this item add an additional 1d10 force damage to any critical hit. Small ethereal lights twirl around this item
+While attuned to this item add an additional 1d10 psychic damage to any critical hit. This item whispers thoughts to you on occasion
+While attuned to this item add an additional 1d10 radiant damage to any critical hit. You grow a set of ethereal wings
+While attuned to this item add an additional 1d10 necrotic damage to any critical hit. This item appears to be decaying
+While attuned to this item add an additional 1d10 thunder damage to any critical hit. This item generates extra noise when hitting or when hit
+While attuned to this item you feel at home in the forest. Your proficiency bonus increases by 1 while in this area. This item is decorated with trees
+While attuned to this item you feel at home in the desert. Your proficiency bonus increases by 1 while in this area. This item is decorated with cacti and tumbleweeds
+While attuned to this item you feel at home in the mountains. Your proficiency bonus increases by 1 while in this area. This item is decorated with mountains
+While attuned to this item you feel at home when on the coastline. Your proficiency bonus increases by 1 while in this area. This item is decorated with crashing waves
+While attuned to this item you feel at home in the plains. Your proficiency bonus increases by 1 while in this area. This item is decorated with small rolling hills and plantlife
+While attuned to this item whenever an enemy critically hits you roll a d20. On a result of 11-20 the critical hit is negated and only normal damage is dealt. This item is decorated with shields
+While attuned to this item whenever you drink a full potion roll a d20. On a result of 16-20 you manage to save enough for a second use
+While attuned to this item whenever you take a short rest roll a d20. On a result of 16-20 your next attack is a guaranteed critical hit
+While attuned to this item whenever you kill an enemy roll a d20. On a result of 19-20 you gain a surge of energy and may immediately take another full turn
+While attuned to this item one piece of silver explodes out of this item for every point of damage you deal against enemies of at least CR 1
+While attuned to this item this item plays battle music for you in combat that can be heard in a 30 ft. area
+While attuned to this item you may use your inspiration to make your next attack into a critical hit. You may use this ability after your attack has confirmed to hit but before damage is rolled
+This item is covered in vines. Every morning it grows a batch of 10 Goodberries that can be consumed
+While attuned to this item you may store up to two charges of inspiration
+While attuned to this item it is invisible to all enemies making it impossible to see what you are wielding or wearing
+While attuned to this item rain cannot fall upon you. It diverts around the edges of an ethereal bubble of energy instead
+While attuned to this item once per day you may speak to a small critter for 10 minutes
+While attuned to this item you cannot be surprised for any reason
+While attuned to this item add +2 to your initiative rolls
+While attuned to this item enemies roll their attacks of opportunity against you with disadvantage
+While attuned to this item healing potions restore an additional 50% health
+While attuned to this item your minimum health regained from a hit die during a short rest is equal to 4 + your Con Modifier
+While attuned to this item ethereal butterflies flutter around your head. All healing spells that cast on you heal for an additional amount equal to your proficiency bonus
+While attuned to this item you have darkvision up to 30 ft. and your eyes glow brightly at night
+While attuned to this item plants spring to life around you. You get a +5 to Survival checks when looking for food
+While attuned to this item you can detect any sources of water within 1000 ft
+While attuned to this item you can walk on water for up to 5 minutes a day
+While attuned to this item you can breath underwater for up to 5 minutes a day
+While attuned to this item you have tremorsense up to 10 ft
+While attuned to this item you find a bag containing 2d6 + 2 chocolates under your pillow every morning when you wake up. They restore 1 hp when eaten
+While attuned to this item you take only half damage from any fall. This item is decorated with feathers
+While attuned to this item you always know its location no matter how far from you it is taken
+While attuned to this item you can emit a fog cloud with radius of 20 ft centered on your self once per day. It persists for one minute
+While attuned to this item you can call upon this item to summon a noble elk steed for you to ride
+While attuned to this item enemies that fall below twenty health begin to glow red for you
+While attuned to this item speak a command work to make this item exude bright light in a ten foot radius and dim light another five feet
+While attuned to this item whenever you take a short rest roll a d20. On a result of 16-20 you automatically pass your next saving throw
+While attuned to this item whenever you take a short rest you gain temporary health equal to your level + your Con mod. This does not stack and lasts up to 8 hours
+While attuned to this item treasure erupts from enemies you kill with a CR of 1 or greater. Dealing the killing blow to an opponent causes 1 gem to burst forth worth 10g. Whenever you kill an enemy with a critical hit 4 gems burst forth instead
+While attuned to this item once per day you may reroll an attack roll. You must take the second result
+While attuned to this item you give off a lovely aroma that makes others attracted to you. Add +5 to any roll when persuading someone who my be attracted to you
+While attuned to this item you learn to speak the language of the next creature you encounter
+While attuned to this item you always know which way is North
+While attuned to this item you only need to eat half the normal amount of food on a given day
+While attuned to this item fireflies are drawn to you at night. They will light your camps and flash brightly when something approaches
+While attuned to this item a small sprite follows you around and will occasionally point out hidden objects
+This only weighs a third of its typical weight

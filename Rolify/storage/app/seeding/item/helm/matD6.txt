@@ -1,0 +1,12 @@
+helm
+boiled leather
+bronze
+copper
+iron
+steel
+gold-plated steel
+silver-plated steel
+platinum-plated steel
+mithral
+adamantine
+odium"

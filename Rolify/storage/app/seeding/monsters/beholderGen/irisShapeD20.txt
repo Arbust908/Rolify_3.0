@@ -1,0 +1,16 @@
+beholderGen
+circle
+slit
+crescent
+square
+hourglass
+string-of-pearls
+irregular
+triangle
+keyhole
+wave
+oval
+circle
+slit
+Triangle
+oval

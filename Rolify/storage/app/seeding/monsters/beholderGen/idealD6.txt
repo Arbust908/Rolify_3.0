@@ -1,0 +1,7 @@
+beholderGen
+Creed: My trophies are proof of my success. (Evil)
+Community: My hierarchy of minions keeps me safe. (Lawful)
+Intolerance: All other beholders are imperfect and must be destroyed. (Evil)
+Stability: I must maintain the current balance of power in the region. (Lawful)
+Perfection: Although I am perfect as I am, I can strive to be even better. (Neutral)
+Power: I will be secure when I rule over all. (Evil)

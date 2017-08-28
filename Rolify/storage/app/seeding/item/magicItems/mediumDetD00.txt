@@ -1,0 +1,98 @@
+magicItems
+While attuned to this item, you movement speed is reduced by 5 ft
+While attuned to this item, whenever you roll a natural 1 in combat, the target you were attacking gets an opportunity attack against you
+While attuned to this item, your maximum health is reduced by an amount equal to your level
+While attuned to this item, you regain two less hit die than normal during a long rest
+While attuned to this item, whenever you roll a natural 1 for initiaive, 1d4 kobolds appear in an empty space within 30 feet of and attack you
+While attuned to this item, whenever you roll a natural 1 for initiaive, 2 bugbears appear in an empty space within 30 feet of and attack you
+While attuned to this item, whenever you roll a natural 1 for initiaive, 1d4 bullywugs appear in an empty space within 30 feet of and attack you
+While attuned to this item, whenever you roll a natural 1 for initiaive, 2 cockatrices appear in an empty space within 30 feet of and attack you
+While attuned to this item, whenever you roll a natural 1 for initiaive, 2 imps appear in an empty space within 30 feet of and attack you
+While attuned to this item, whenever you roll a natural 1 for initiaive, choose a page number between 12 and 314 at random. A random monster on that page of the Monster Manutal escapes this item and attacks. If the creature chosen has a CR higher than the average level of your party, choose another random creature
+While attuned to this item, your stomach is constantly in knots. When you make a Constitution saving throw, roll a an additional d4 and subtracts that amount from the result
+While attuned to this item, your limbs feel weak. When you make a Strength saving throw, roll a an additional d4 and subtracts that amount from the result
+While attuned to this item, your limbs feel numb.When you make a Agility saving throw, roll a an additional d4 and subtracts that amount from the result
+While attuned to this item, your head is constantly cloudy. When you make a Wisdom saving throw, roll a an additional d4 and subtracts that amount from the result
+While attuned to this item, your memory seems to slip. When you make a Intelligence saving throw, roll a an additional d4 and subtracts that amount from the result
+While attuned to this item, your tongue is heavy in amount from the result
+While attuned to this item, all enemy attacks deal an additional 1 damage to you
+While attuned to this item, slashing damage deals an extra 3 damage to you
+While attuned to this item, bludgeoning damage deals an extra 3 damage to you
+While attuned to this item, stabbing damage deals an extra 3 damage to you
+While attuned to this item, when you roll a 1 for initiative. A black dragon wyrmling will appear and help the enemy in combat
+43 21 While attuned to this item, fire damage deals an extra 4 damage to you
+While attuned to this item, when you roll a 1 for initiative. A green dragon wyrmling will appear and help the enemy in combat
+22 While attuned to this item, cold damage deals an extra 4 damage to you
+While attuned to this item, when you roll a 1 for initiative. A white dragon wyrmling will appear and help the enemy in combat
+While attuned to this item, lightning damage deals an extra 4 damage to you
+While attuned to this item, thunder damage deals an extra 4 damage to you
+While attuned to this item, necrotic damage deals an extra 4 damage to you
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, you are hit by a stroke of bad luck. You are under the effects of the bane spell for the first three rounds of this encounter
+While attuned to this item, radiant damage deals an extra 4 damage to you
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, you are hit by a wave of sickness. You are considered poisoned for the first three rounds of this encounter
+While attuned to this item, psychic damage deals an extra 4 damage to you
+While attuned to this item, force damage deals an extra 4 damage to you
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, you become captivated by this item. During the first round of combat you may take no actions
+While attuned to this item, acid damage deals an extra 4 damage to you
+While attuned to this item, poison damage deals an extra 4 damage to you
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, during this encounter, whenever you deal damage roll an extra d4 and subtract that value from the total
+While attuned to this item, reduce the damage of all of your critical hits by 7
+While attuned to this item, the DC for your death saving throws become 12
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, you are hit by a stroke of bad luck. During this encounter, enemies roll an additional d4 damage whenever that successfully attack you
+While attuned to this item, whenever you roll with disadvantage, reduce the value of the lower dice by 2
+While attuned to this item, your critical hits cause backlash damage. On a critical hit you take damage equal to your proficiency bonus
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, your legs go numb with fear. For the first three rounds of combat your movement speed is halved and you cannot take the dash action
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, this item gives off discharges of power this encounter. Any friendly creature within 10 ft. of you at the end of your turn takes 1d6 force damage
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, this item demands power. Your highest stat to become 10 for three rounds as you feed its hunger
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, you feel the burdon of this item's power take its toll on you. You cannot take reactions or bonus actions for the first three rounds of combat
+While attuned to this item, your AC is reduced by 1 when an enemy is within 5 ft of you
+While attuned to this item, when an enemy critically hits you, you take 1d10 additional damage of that type
+While attuned to this item, for the first hour after finishing a long rest, your movement speed is halved as this item drains your energy
+While attuned to this item, Whenever an enemy rolls a natural 1 against you, it is a hit rather than a miss
+While attuned to this item, you are easily frightened. You get -2 to any fear checks
+While attuned to this item, when you roll a 1 for initiative. A blue dragon wyrmling will appear and help the enemy in combat
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, a Wall of Fire springs up around you and lasts for three rounds
+While attuned to this item, when you roll a 1 for initiative. A red dragon wyrmling will appear and help the enemy in combat
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, you are affected by a Reduce spell for the first three rounds of combat
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, a Grease spell is cast under your feet with a radius of 10 ft
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, this item unleashes an uncontrollable surge of energy. A random enemy within 200 ft. gains 4d6 temporary hit points
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, this item unleashes an uncontrollable surge of energy. A random enemy within 200 ft. gain +4 to their highest stat
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, this item unleashes an uncontrollable surge of energy. A random enemy within 200ft. becomes blessed
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, this item unleashes an uncontrollable surge of energy. A random enemy within 200ft. comes under the effects of Mirror Image
+While attuned to this item, whenever you make a saving throw against a spell that deals Necrotic damage, roll a an additional d4 and subtract that value from the result
+While attuned to this item, whenever you make a saving throw against a spell that deals Radiant damage, roll a an additional d4 and subtract that value from the result
+While attuned to this item, whenever you make a saving throw against a spell that deals Force damage, roll a an additional d4 and subtract that value from the result
+While attuned to this item, any spell that allows you to reroll to end an effect at the end of your turn has its DC increased by 2
+While attuned to this item, whenever you make a Acrobatics check, roll an additional d4 and subtract half that value, rounded up, from your result
+While attuned to this item, whenever you make a Animal Handling check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you roll a 1 in combat, a rune appears on the ground beneath your feet. At the end of your turn this rune explodes, dealing 2d10 lightning damage to all friendly creatures adjacent to it
+While attuned to this item, whenever you are affected by a healing spell, a random enemy within 30ft. heals for that same amount. While attuned to this item, whenever you make a Athletics check, roll an additional d4 and subtract that value from your result
+While attuned to this item, if an enemy casts a damaging spell that would harm you, roll your saving throw with disadvantage. While attuned to this item, whenever you make a Deception check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you make a saving throw against a spell that deals Arcane damage, roll a an additional d4 and subtract that value from the result. While attuned to this item, whenever you make a History check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you make a Insight check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you make a Intimidation check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you make a Investigation check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you make a Medicine check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you make a Nature check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you make a Perception check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you make a Performance check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you make a Persuasion check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you make a Religion check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you make a saving throw against a spell that deals Fire damage, roll a an additional d4 and subtract that value from the result
+While attuned to this item, whenever you make a saving throw against a spell that deals Cold damage, roll a an additional d4 and subtract that value from the result
+While attuned to this item, whenever you make a saving throw against a spell that deals Thunder damage, roll a an additional d4 and subtract that value from the result
+While attuned to this item, whenever you make a saving throw against a spell that deals Lightning damage, roll a an additional d4 and subtract that value from the result
+While attuned to this item, whenever you make a saving throw against a spell that deals Acid damage, roll a an additional d4 and subtract that value from the result
+While attuned to this item, whenever you make a saving throw against a spell that deals Poison damage, roll a an additional d4 and subtract that value from the result
+While attuned to this item, whenever you make a Sleight of Hand check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you make a Stealth check, roll an additional d4 and subtract that value from your result
+While attuned to this item, whenever you make a Survival check, roll an additional d4 and subtract half that value, rounded up, from your result
+While attuned to this item, you may not use healing potions while in combat
+While attuned to this item, whenever an enemy critically hits you, you have disadvantage on all rolls made during your next round of combat
+While attuned to this item, whenever an enemy critically hits you, you move down one step on the initiative order
+While attuned to this item, whenever you roll with advantage, reduce the result of the higher dice by 2
+While attuned to this item, party members within 5 feet of you gain a penalty of -1 to their initiative rolls
+While attuned to this item, you get -2 to your initiative rolls
+While attuned to this item, you are mute for the first hour after a long rest
+While attuned to this item, if you have darkvision, you lose it. If you don't have darkvision, you are now afraid of the dark and need a light in order to sleep
+While attuned to this item, whenever you roll max damage on an attack die. Reroll that die and take the second result. Do this a maximum of once per round

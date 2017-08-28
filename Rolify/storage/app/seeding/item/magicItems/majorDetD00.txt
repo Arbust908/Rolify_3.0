@@ -1,0 +1,100 @@
+magicItems
+This item has two additional Medium Detriments
+This item has two additional Medium Detriments
+This item has two additional Medium Detriments
+This item has two additional Medium Detriments
+This item has two additional Medium Detriments
+This item has two additional Medium Detriments
+This item has two additional Medium Detriments
+This item has two additional Medium Detriments
+This item has two additional Medium Detriments
+This item has two additional Medium Detriments
+While attuned to this item, you have vulnerability to fire damage
+While attuned to this item, you have vulnerability to cold damage
+While attuned to this item, you have vulnerability to lightning damage
+While attuned to this item, you have vulnerability to thunder damage
+While attuned to this item, you have vulnerability to force damage
+While attuned to this item, you have vulnerability to acid damage
+While attuned to this item, you have vulnerability to poison damage
+While attuned to this item, you have vulnerability to psychic damage
+While attuned to this item, you have vulnerability to radiant damage
+While attuned to this item, you have vulnerability to necrotic damage
+While attuned to this item, you have vulnerability to slashing damage
+While attuned to this item, you have vulnerability to bludgeoning damage
+While attuned to this item, you have vulnerability to piercing damage
+While attuned to this item, enemies critically hit you on a roll of 18-2
+While attuned to this item, enemy attacks deal an additional 3 damage to you
+While attuned to this item, you have a chance to spontaneously combust. When you are damaged by an enemy, roll a d20. On a result of 1, you cast a level 3 Fireball spell centered on yourself
+While attuned to this item, at the end of your turn in combat, roll a d20. On a result of 1, pure energy erupts from this item when you. All flammable objects not being worn or carried within thirty feet of you burst into flames. Additionally, all creatures within thirty feet take 3d6 fire damag
+While attuned to this item, at the end of your turn in combat, roll a d20. On a result of 1, ice erupts from this item. All non-living, non-carried or equipped objects in a twenty foot radius are frozen. The area becomes difficult terrain until the ice melts. All creatures within this area take 3d6 cold damage
+While attuned to this item,at the end of your turn in combat, roll a d20. On a result of 1, this item erupts with brilliant light. All creatures within ten feet of you, including yourself, must make a DC 15 Constitution save or become blinded. Repeat this save at the end of each turn. You automatically fail the first
+While attuned to this item, at the end of your turn in combat, roll a d20. On a result of 1, a cloud of poisonous gas erupts from this item when you. All creatures in a 20 foot radius, including you, must make a DC 15 Constitution save or become poisoned. Repeat this save at the end of each turn. You automatically fail the first
+While attuned to this item, whenever you roll a critical hit, reduce its damage by 13
+While attuned to this item, for the first hour after finishing a long rest, you are deaf
+While attuned to this item, when an enemy critically hits you, you take 2d12 additional damage of that type
+While attuned to this item, whenever you roll a natural 1 on a spell save DC, the damage is increased by 50% or the DC to save on the effect if ongoing is increased by
+While attuned to this item, Whenever an enemy rolls a natural 1 against you, it is a hit rather than a miss
+While attuned to this item, whenever you roll max damage on a die. Reroll that die and take the second result. This detriment only applies once per turn
+While attuned to this item, your critical hits cause backlash damage. On a critical hit, you take damage equal to your level
+While attuned to this item, you regain only half of your hit dice during a long rest
+While attuned to this item, every time you take the attack action or cast a spell, you lose 2 hit points
+While attuned to this item, you get -4 to your initiative rolls
+While attuned to this item, you make your initiative rolls with disadvantage
+While attuned to this item, you must sleep for at least ten hours to become fully rested. If you do not get this rest you gain a level of exhaustion
+While attuned to this item, once you fall asleep you enter a trance and are incapable of waking up for any reason for the next six hours
+While attuned to this item, whenever you are critically hit you are stunned until the end of your next turn
+While attuned to this item, when you roll a natural 1-2 for initiative. A Bulette will appear and help the enemy in combat. If a Bulette does not fit in this area
+While attuned to this item, when you roll a natural 1-2 for initiative. A Cambion will appear and help the enemy in combat
+While attuned to this item, when you roll a natural 1-2 for initiative. A Balgura Demon will appear and help the enemy in combat. If a Balgura does not fit in this area, a Flaming Skull appears instead
+While attuned to this item, when you roll a natural 1-2 for initiative. A Barbed Devil will appear and help the enemy in combat
+While attuned to this item, when you roll a natural 1-2 for initiative. A Half-Dragon Veteran will appear and help the enemy in combat
+While attuned to this item, during your first combat of the day, you have -3 to all saving throws for this fight
+While attuned to this item, during your first combat of the day, you are filled with rage and always attack the closest enemy this fight
+While attuned to this item, during your first combat of the day, your legs go numb. Your movement speed is halved for this fight
+While attuned to this item, the contents of healing potions turn to dust as they touch your lips
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, you are hit by a stroke of bad luck. You are under the effects of the bane spell for this encounter
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, you are hit by a wave of sickness. You are considered poisoned for the first five rounds of this encounter
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, you become captivated by this item. During the first round of combat you may take no actions and during the second you make all actions with disadvantage
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, during this encounter, whenever you deal damage roll an extra d6 and subtract that value from the total
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, you are hit by a stroke of bad luck. During this encounter, enemies roll an additional d6 damage whenever that successfully attack you
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, your legs go numb with fear. For the first five rounds of combat your movement speed is halved and you cannot take the dash action
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, this item gives off discharges of power this encounter. Any friendly creature within 10 ft. of you at the end of your turn takes 2d6 force damage
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, this item demands power. Your highest stat to become 12 for five rounds as you feed its hunger
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, you feel the burdon of this item's power take its toll on you. You cannot take reactions or bonus actions for the first three rounds of combat
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, a Wall of Fire springs up around you and lasts for five rounds
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, you are affected by a Reduce spell for the first five rounds of combat
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, a Grease spell is cast under your feet with a radius of 20 ft
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, this item unleashes an uncontrollable surge of energy. A random enemy within 200 ft. gains 4d12 temporary hit points
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, this item unleashes an uncontrollable surge of energy. A random enemy within 200 ft. has their highest stat increased by 6
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, this item unleashes an uncontrollable surge of energy. Two random enemies within 200ft. becomes blessed
+While attuned to this item, whenever you roll for initiative, roll a d4. On a result of 1, this item unleashes an uncontrollable surge of energy. Two random enemies within 200ft. comes unde the effects of Mirror Image spell
+While attuned to this item, you feel sluggish and depressed when it rains. While it is raining, make your initiative rolls with disadvantage and you make not take bonus actions
+While attuned to this item, whenever you roll a natural 19-20 for initiative, one of the random effects from the Bag of Beans occurs within ten feet of you
+While attuned to this item, a pack of 3d6 gnolls appear somewhere in the wilds, worshipping this item as their god. They will hunt you down until they are all killed or until they have retrieved the item
+While attuned to this item, the gods themselves become jealous. Each dawn roll a d4. On a result of 1, you will be struck with a bolt of lightning (8d6, DC 15 Dex save for half) at some unknown point during that day
+While attuned to this item, the gods themselves become jealous. Each dawn, roll a d4. On a result of 1, at some point during the day the ground beneath your feet will turn to quicksand. You become restrained and slowly sink into the ground. If you cannot escape or are not pulled free within three turns, you begin to suffocate. (DC 15 Strength save
+While attuned to this item, the gods themselves become jealous. Each dawn roll a d4. On a result of 1, at some unknown point during the day, one of your allies will be hit by a ray of flames from the heavens. (5d10 fire damage, DC 15 Dexterity save for half
+While attuned to this item, the gods themselves become jealous. Each dawn roll a d4. On a result of 1, at some unknown point during the day, a powerful gust of wind will bombard you and all creatures within 20 feet. Each creature affected makes a DC 15 Str save, on a fail they are thrown 30 feet, take 5d4 bludgeoning damage, and are knocked prone. On a pass, they take half damage and are not knocked prone
+While attuned to this item, you make Acrobatics checks with disadvantage
+While attuned to this item, you make Animal Handling checks with disadvantage
+While attuned to this item, you make Athletics checks with disadvantage
+While attuned to this item, you make Deception checks with disadvantage
+While attuned to this item, you make History checks with disadvantage
+While attuned to this item, you make Insight checks with disadvantage
+While attuned to this item, you make Intimidation checks with disadvantage
+While attuned to this item, you make Investigation checks with disadvantage
+While attuned to this item, you make Medicinechecks with disadvantage
+While attuned to this item, you make Nature checks with disadvantage
+While attuned to this item, you make Perception checks with disadvantage
+While attuned to this item, you make Performance checks with disadvantage
+While attuned to this item, you make Persuasion checks with disadvantage
+While attuned to this item, you make Religion checks with disadvantage
+While attuned to this item, you make Sleight of Hand checks with disadvantage
+While attuned to this item, you make Stealth checks with disadvantage
+While attuned to this item, you make Survival checks with disadvantage
+While attuned to this item, you are limited to having only one other magical item attuned to you. If you are attuned to two items when you try to become attuned to this item, it fails
+While attuned to this item, your lowest attribute is reduced by 2
+While attuned to this item, your highest attribute is reduced by 2
+While attuned to this item, whenever you kill an enemy, an overwhelming guilt strikes you. Make a DC 15 Wisdom saving throw. On a fail, you are so conflicted with your actions that you cannot attack next turn
+While attuned to this item, sevens are not so lucky for you. They are always considered a 1 when rolled
+While attuned to this item, when you move through difficult terrain in combat, you must expend quadruple the movement, rather than double

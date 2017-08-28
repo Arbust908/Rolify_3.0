@@ -1,0 +1,13 @@
+helm
+a dragon
+a tiger
+a hound
+a bull
+an owl
+a frog
+a dragon
+a lion
+a wolf
+a stag
+an eagle
+a snake

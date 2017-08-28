@@ -1,0 +1,82 @@
+magicItems
+This item is +1. Reroll if it already has an enhancement of equivalent or higher level. If this item is a spellcaster weapon it instead grants +1 to your spell attack bonus and spell save DC instead
+While attuned to this item you deal 1 additional damage with all attacks and spells
+While attuned to this item you can use an attack of opportunity even against enemies who are disengaging
+While attuned to this item when you are within 5 feet of at least two enemies you may disengage as a bonus action
+While attuned to this item you cannot be critically hit
+While attuned to this item your Intelligence becomes 17
+While attuned to this item your Dexterity becomes 17
+While attuned to this item your Constitution becomes 17
+While attuned to this item your Strength becomes 17
+While attuned to this item your Charisma becomes 17
+While attuned to this item your Wisdom becomes 17
+There is a small flask attached to this item. The contents of the flask can be consumed to heal for 2d4 + 2 hit points and cure any poisons or diseases but only to the creature attuned to this item. The flask magically refills at dawn each day
+While attuned to this item you feel lucky. Once per day you can reroll an attack saving throw or ability check. Take the higher of the two results
+While attuned to this item you enter a state of pure calm while asleep. You only need to rest for 2 hours a day to become completely refreshed but you may still only rest once every 24 hours
+While attuned to this item whenever you are critically hit you gain resistance to the damage type of that attack until you are hit by another critical strike
+While attuned to this item you gain +1 to all saving throws
+While attuned to this item you gain +2 to all saving throws in which you are not proficient
+Whille attuned to this item you gain proficiency in Acrobatics. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Animal Handling. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Athletics. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Deception. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in History. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Insight. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Intimidation. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Investigation. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Medicine. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Nature. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Perception. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Performance. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Persuasion. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Religion. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Sleight of Hand. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Stealth. If you are already proficient in this skill you gain expertise in it instead
+Whille attuned to this item you gain proficiency in Survival. If you are already proficient in this skill you gain expertise in it instead
+While attuned to this item you cannot be deafened
+While attuned to this item you cannot be stunned
+While attuned to this item you cannot be petrified
+While attuned to this item you cannot be paralyzed
+While attuned to this item you can cast Charm Person once per day. The DC for this spell is 13
+While attuned to this item you can cast Detect Magic once per day
+While attuned to this item you can cast Shield once per day
+While attuned to this item you can cast Fairie Fire once per day. The DC for this spell is 13
+While attuned to this item you can cast Animal Friendship once per day
+While attuned to this item you can cast Zone of Truth once per day
+While attuned to this item you can cast Pass Without Trace once per day
+While attuned to this item you can cast See Invisibility once per day
+While attuned to this item you can cast Gust of Wind once per day. The DC for this spell is 13
+While attuned to this item you can cast Enlarge on yourself once per day
+While attuned to this item you can cast Tongues once per day
+While attuned to this item you can cast Daylight once per day
+While attuned to this item you can cast Dispel Magic once per day
+While attuned to this item you can cast Fireball at third level once per day. The DC for this spell is 13
+While attuned to this item you can cast Lightning Bolt at third level once per day. The DC for this spell is 13
+While attuned to this item your deal 1 additional lightning damage on all attacks. Add an additional 2d10 lightning damage to any critical hit. This item crackles with electricity
+While attuned to this item your deal 1 additional fire damage on all attacks. Add an additional 2d10 fire damage to any critical hit. This item occasionally sends off licks of flame
+While attuned to this item your deal 1 additional cold damage on all attacks. Add an additional 2d10 cold damage to any critical hit. This item appears to be frozen
+While attuned to this item your deal 1 additional poison damage on all attacks. Add an additional 2d10 poison damage to any critical hit. This item exudes black fumes
+While attuned to this item your deal 1 additional acid damage on all attacks. Add an additional 2d10 acid damage to any critical hit. This item drips acid
+While attuned to this item your deal 1 additional force damage on all attacks. Add an additional 2d10 force damage to any critical hit. Small ethereal lights twirl around this item
+While attuned to this item your deal 1 additional psychic damage on all attacks. Add an additional 2d10 psychic damage to any critical hit. This item whispers thoughts to you on occasion
+While attuned to this item your deal 1 additional radiant damage on all attacks. Add an additional 2d10 radiant damage to any critical hit. You grow a set of ethereal wings
+While attuned to this item your deal 1 additional necrotic damage on all attacks. Add an additional 2d10 necrotic damage to any critical hit. This item appears to be decaying
+While attuned to this item your deal 1 additional thunder damage on all attacks. Add an additional 2d10 thunder damage to any critical hit. This item generates extra noise when hitting or when hit
+While attuned to this item whenever you drink a full potion roll a d20. On a result of 11-20 you manage to save enough for a second use
+While attuned to this item whenever you drink a full potion roll a d20. On a result of 11-20 you gain a charge of inspiration
+While attuned to this item whenever you take a short rest roll a d20. On a result of 11-20 your next attack is a guaranteed critical hit
+While attuned to this item whenever you kill an enemy roll a d20. On a result of 17-20 you may immediately take another full turn
+While attuned to this item whenever you score a critical hit roll an additional d20. If the result of the second die is an 17 or higher the enemy instantly dies if its current health is less than 100
+While attuned to this item whenever you roll a natural 16-20 for your initiative roll you may select any ally and raise their initiative result by 5
+While attuned to this item treasure erupts from enemies you kill with a CR of 1 or greater. Dealing the killing blow to an opponent causes 1d4 gems to burst forth each worth 10g. Whenever you kill an enemy with a critical hit roll 4d4 instead
+While attuned to this item increase your movement speed by 5 ft
+90 While attuned to this item you gain resistance to a random element
+While attuned to this item when you deal a killing blow against an enemy heal for d8 + your Proficiency Bonus
+While attuned to this item when an enemy misses you while you are dodging you may use your reaction to make an attack against them
+While attuned to this item you can store up to 3 charges of inspiration
+While attuned to this item you can store up to 2 charges of inspiration. Whenever you gain inspiration you gain two charges instead of 1
+While attuned to this item add +3 to your initiative rolls
+While attuned to this item healing potions restore double health to you
+While attuned to this item you have advantage on initiative rolls
+While attuned to this item if you would die this item shatters and you are returned to life with 1 hit point
+This item has a map inscribed upon it. This map leads to a powerful magic item

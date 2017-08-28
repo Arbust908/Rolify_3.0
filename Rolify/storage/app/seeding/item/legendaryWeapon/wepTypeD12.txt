@@ -1,0 +1,18 @@
+legendaryWeapon
+a longsword
+a shortsword
+a greatsword
+a broadsword
+a scimitar
+a bastard sword
+a spear
+a halberd
+a scythe
+a dagger
+a handaxe
+a battleaxe
+a greataxe
+a lighthammer
+a mace
+a maul
+a warhammer

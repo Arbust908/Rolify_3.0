@@ -1,0 +1,11 @@
+mutants
+blindsight
+blood-sucking life drain
+burrowing
+a flyby attack
+a poisonous sting
+a psionic blast
+swallowing prey whole
+a tentacle grab
+teleportation
+tremorsense

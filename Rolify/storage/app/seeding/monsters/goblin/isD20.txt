@@ -1,0 +1,21 @@
+goblin
+a miner
+a forager
+a warrior
+a scout
+a trapmaker
+an archer
+an assassin
+a hexer
+a wolf-rider
+a sneak
+an armorer
+a cook
+a builder
+a beastshifter
+a skullcrusher
+a thug
+a warpriest
+a prankster
+a blackblade
+a worthless nobody

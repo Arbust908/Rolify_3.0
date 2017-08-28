@@ -1,0 +1,10 @@
+coinFinder
+rectangular
+square
+eight sided
+diamond shaped
+six sided
+round
+round with a hole in the center
+crescent shaped
+irregularly shaped

@@ -1,0 +1,11 @@
+mutants
+tiny
+small
+medium
+large
+huge
+bloated
+skeletal
+sickly
+two-headed
+regenerating

@@ -1,0 +1,99 @@
+magicItems
+While attuned to this item, during rainstorms, frogs will fall out of the sky and batter you, occasionally exploding on impact
+While attuned to this item, bartenders charge you twice as much for alcohol and rooms
+While attuned to this item, a ferret will occasionally show up at night and steal 1d4 gold from you. If you attempt to catch or harm the ferret it disappears with a poof of smoke
+While attuned to this item, you no longer trust Fighters and always assume they are lying to you. This does not apply to your party members
+While attuned to this item, you no longer trust Rogues and always assume they are lying to you. This does not apply to your party members
+While attuned to this item, you no longer trust Paladins and always assume they are lying to you. This does not apply to your party members
+While attuned to this item, you no longer trust Sorcerers and always assume they are lying to you. This does not apply to your party members
+While attuned to this item, you no longer trust Wizards and always assume they are lying to you. This does not apply to your party members
+While attuned to this item, you no longer trust Druids and always assume they are lying to you. This does not apply to your party members
+While attuned to this item, no NPCs think any of your jokes are funny
+While attuned to this item, you seem to have the worst luck. You can never win at games of chance
+While attuned to this item, birds will aim for you when evacuating their bowels
+While attuned to this item, all non-magical flames within 30 feet of you are extinguished
+While attuned to this item, you have terrible nightmares every night. You require an extra hour of sleep to become fully rested
+While attuned to this item, you no longer trust Monks and always assume they are lying to you. This does not apply to your party members
+While attuned to this item, you no longer trust Warlocks and always assume they are lying to you. This does not apply to your party members
+While attuned to this item, you no longer trust Guards and always assume they are lying to you
+While attuned to this item, all nearby allies have terrible nightmares when you are sleeping within 50 ft. of them. They require an extra hour of rest a night
+While attuned to this item, you somehow manage to burn any food you try to cook
+While attuned to this item, you no longer trust Lords and always assume they are lying to you
+While attuned to this item, all chickens stalk you with violent intentions, striking when they feel their numbers are great enough to overcome you
+While attuned to this item, you no longer trust Soldiers and always assume they are lying to you
+While attuned to this item, slugs make their way to you and crawl on your face while you sleep
+While attuned to this item, you gain an additional random character flaw from your background's list of options
+While attuned to this item, all domestic animals are terrified of you
+While attuned to this item, you constantly confuse your left from your right
+While attuned to this item, you snore incredibly loud every night no matter how or where you sleep
+While attuned to this item, you think the sun rises in the west and sets in the east
+While attuned to this item, all instruments within 50 ft. of you sound out of tune when played
+While attuned to this item, you think all food except the last thing you ate before becoming attuned to this item tastes vile
+While attuned to this item, you must eat twice the normal amount of food and you always feel hungry
+While attuned to this item, you have to use the bathroom three times as often
+While attuned to this item, you no longer trust Bartenders and always assume they are lying to you
+While attuned to this item, you fall madly in love with the next new person you meet that fits your sexual preferences
+While attuned to this item, you no longer trust Bards and always assume they are lying to you. This does not apply to your party members
+While attuned to this item, you refuse to let it out of your sight. If it is more than ten feet from you, you have disadvantage on all rolls
+While attuned to this item, you no longer trust Barbarians and always assume they are lying to you. This does not apply to your party members
+While attuned to this item, you no longer trust Clerics and always assume they are lying to you. This does not apply to your party members
+While attuned to this item, you can only sleep in the company of others. You need someone within arms length or you cannot fall asleep except through magical means
+While attuned to this item, whenever you approach a cliff, you have an overwhelming urge to jump. Make a DC 5 Wisdom check or follow through with this desire
+While attuned to this item, you have an overwhelming urge to throw yourself into fires. Whenever you come within 10 feet of one, make a DC 5 Wisdom save or give in to your urges
+While attuned to this item, you become colorblind
+While attuned to this item, you cannot discern your enemies weapons. Hostile enemies seem to always be wielding logs of various sizes
+While attuned to this item, all members of a randomly determined race all look the same to you
+While attuned to this item, you have an illogical fear of fish and will avoid going into the water if at all possible
+While attuned to this item, you sweat profusely constantly. You have disadvantage on climb checks but advatage on escaping from grapples
+While attuned to this item, if you are a male your beard hair falls out and you can no longer grow one. If you are female, you begin growing a beard
+While attuned to this item, all coins look like copper to you
+While attuned to this item, water you drink tastes like foul wine
+While attuned to this item, fish are strangely drawn to you when in water. They make swimming especially difficult for you and your swim speed is cut in half
+While attuned to this item, you often find stray kittens that only wish they had a home. They will love you dearly, but every night when you go to bed the kitten disappears and only a furball is left in its wake
+While attuned to this item, anytime there is an explosion near you, you become filled with fear. Make a DC 5 Wisdom save or spend your next turn running away terrified
+While attuned to this item, you are absolutely convinced this is an item directly affected by divine intervention. You shall allow no harm to come to it
+While attuned to this item, on rainy days you feel as sad as the weather is gloomy
+While attuned to this item, all food you eat tastes like chicken and every beverage like water
+While attuned to this item, you assume any liquid you drink has been poisoned by an unknown enemy and must be carefully examined before consumed
+While attuned to this item, a flumph follows you around, occasionally unleashing a spray of stench at nearby players. If you kill the flumph it will return at dawn the next day
+While attuned to this item, any food that you carry on your body goes bad at ten times the normal rate
+While attuned to this item, small wildlife creatures fear you
+While attuned to this item, torches burn but produce no light while you are holding them
+While attuned to this item, whenever you roll a natural 1 in combat, you move down one step on the initiative list as you grow distracted by this item's beauty. While attuned to this item, your weight increases by 1d4 x 10 pounds
+While attuned to this item, you lose the ability to smell
+While attuned to this item, whenever you roll a natural 1 in combat, your weapon turns into a large fish for the next round. It deals 1d2 bludgeoning damage to enemies. You maintain proficiency with the weapon while in this state
+While attuned to this item, you now speak with a random foreign accent. Some NPCs have a hard time understanding you
+This item has a map inscrived upon it. It will lead you to a trap planted by local bandits
+While attuned to this item, you become sickened for one round after killing a creature as you are filled with disgust by what you have done
+While attuned to this item, every night when you go to bed, this item transforms into a pack of bats and flies off into the night. They return at first light and reform the item
+While attuned to this item, whenever you kill a creature, its body explodes shortly afterward
+While attuned to this item, whenever you roll a natural 1 on a ranged attack, your projectile turns to confetti before reaching the target. They see this as mockery and will attempt to slay you
+While attuned to this item, whenever an enemy hits you with a critical strike, roll a DC 10 Wisdom save. On a fail, you become frightened of your target. You may repeat this save at the end of each of your turns
+While attuned to this item, whenever an enemy hits you with a critical strike, you wet yourself
+While attuned to this item, you feel homesick as soon as you leave town. You must sleep with a stuffed animal or similar reminder or you gain a level of exhaustion when you wake
+While attuned to this item, no matter how sneaky you attempt to be, you always seem to leave footprints in your wake
+While attuned to this item, you are occasionally stuck by powerful needs to itch locations that you cannot reach
+While attuned to this item, you always feel cold, even in the hottest of temperatures
+While attuned to this item, you always feel hot, even in the middle of winter
+While attuned to this item, you become convinced that the next enemy you encounter is a long, lost childhood friend
+While attuned to this item, you perceive the voices of everyone around you as if they were speaking in monotone
+While attuned to this item, you become convinced that you are being stalked by a ghost. You cannot sleep on your own or without a light or you will gain a level of exhaustion
+While attuned to this item, you develop an intolerant mindset towards members of a random race
+While attuned to this item, you feel incredibly generous and will give gold to anyone in need
+While attuned to this item, you are afflicted by narcolepsy. Whenever you roll a natural 1 for initiative, you fall asleep for 2 rounds, or until someone shakes you awake, or until someone strikes you
+While attuned to this item, you become convinced that everyone is trying to steal from you
+While attuned to this item, you become allergic to the next food you eat. You have horrible sneezing fits when it is nearby and become sickened for 6 hours if you eat it
+While attuned to this item, anytime you see someone having a conversation out of earshot, you just know that they are talking about you
+While attuned to this item, every morning you forget your name and have to be convinced when told what it is
+While attuned to this item, you have a powerful urge to drink the blood of anything you kill
+While attuned to this item, whenever you curse, 1 gold disappears from your bags and appears in a jar hidden away somewhere on this plane. If you have no gold, you take 1 point of psychic damage
+While attuned to this item, a small snow flurry follows you around everywhere you go
+While attuned to this item, you are afraid of lightning. Roll a DC 15 Wisdom save to see if you can work up the courage to travel on such days. On a fail, you do everything you can to stay indoors
+While attuned to this item, you have an increble terror of frogs and toads
+While attuned to this item, all alcohol turns to water as soon as it touches your lips
+While attuned to this item, all water turns to alcohol as soon as it touches your lips
+While attuned to this item, you have hour long fits of the hiccups multiple times a day
+While attuned to this item, you are compelled to make a wager on every fight
+While attuned to this item, occasionally a live wasp will find its way into your water flask
+While attuned to this item, you become terrified at the sight of your own reflection
+While attuned to this item, all 2's on your damage die count as 1's

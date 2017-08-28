@@ -1,0 +1,20 @@
+legendaryWeapon
+obsidian
+diamond
+simple steel forged to perfection
+iron cooled in demon's blood
+steel cooled in dragon's blood
+rare metal that is forged to perfection
+demon's blood
+golem's heart rock
+ironbark
+adamantium
+dragon fang
+stone
+glass
+enchanted wood
+bone
+flame elemental
+ice elemental
+lightning elemental
+wind elemental

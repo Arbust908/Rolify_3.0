@@ -1,0 +1,21 @@
+potionbrewer
+Clear
+Blue
+Green
+Red
+Pale Green
+Pink
+Light Blue
+White
+Black
+Dark Grey
+Light grey
+Yellow
+Orange
+Gold
+Rainbow
+Bronze
+Metallic
+Purple
+Brown
+Dark Red

@@ -1,0 +1,9 @@
+beholderGen
+brown
+brown-yellow
+gray
+green
+pinkish
+purple-blue
+mottled
+shaded

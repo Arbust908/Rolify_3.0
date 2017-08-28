@@ -1,0 +1,11 @@
+coinFinder
+gold
+silver
+copper
+brass
+obsidian
+wood
+ivory
+ceramic
+bone
+carved clam

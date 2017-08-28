@@ -1,0 +1,13 @@
+goblin
+a rusty sword
+a finely-made sword
+a spiked club
+a wicked looking axe
+a spear decorated with feathers
+several polished daggers
+a large, serrated dagger
+a pair of curved daggers
+a cracked wooden shield
+a shield, emblazoned with the gangs’ symbol
+arrows fletched with crow feathers
+arrows fletched with hawk feathers

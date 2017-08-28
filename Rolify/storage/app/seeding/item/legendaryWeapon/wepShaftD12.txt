@@ -1,0 +1,15 @@
+legendaryWeapon
+polished elm
+bone
+gold
+rough oak
+iron
+fiend's blood
+ironbark
+bronze
+silver
+blackened steel
+ancient oak
+steel with diamond pattern knurling for grips
+steel with leather strips wound for grips
+the same material as the weapon making it one solid piece of

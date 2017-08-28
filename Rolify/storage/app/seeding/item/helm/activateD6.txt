@@ -1,0 +1,38 @@
+helm
+against dragons
+against giants
+against fiends
+against aberrations
+against fey
+against celestials
+when worn by a dwarf
+when worn by a genie
+when worn by a giant
+when worn by a half-dragon
+when worn by a human
+when worn by an undead
+on the Feywild
+on the Plane of Air
+on the Plane of Earth
+on the Plane of Fire
+on the Plane of Water
+on the Shadowfell
+in darkness
+in the realm of a particular elemental lord
+in places touched by death
+in darkness
+in the realm of a particular elemental lord
+in places touched by death
+in darkness
+in the realm of a particular arch-fiend
+in places touched by death
+in darkness
+in the realm of a particular elemental lord
+in places touched by death
+in darkness
+in the realm of a particular elemental lord
+in places touched by death
+in darkness
+in the realm of a particular arch-fiend
+in places touched by death
+at will

@@ -1,0 +1,11 @@
+mutants
+ape
+bat
+boar
+bull
+crocodile
+goat
+lion
+serpent
+spider
+wolf

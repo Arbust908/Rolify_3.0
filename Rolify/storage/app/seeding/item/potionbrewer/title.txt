@@ -1,0 +1,11 @@
+potionbrewer
+Potion
+Elixir
+Draught
+Vial
+Philter
+Tonic
+Brew
+Ichor
+Juice
+Concoction

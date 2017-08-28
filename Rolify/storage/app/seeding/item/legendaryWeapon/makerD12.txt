@@ -1,0 +1,16 @@
+legendaryWeapon
+a dwarf
+a tiefling
+a human
+an elf
+a dragonborn
+a God
+an orc
+a hobgoblin
+a crazy hobo
+a gigant by accident
+a half-elf
+a fiend
+a vampire
+a vampire with the blood of 300 virgins
+a shapeshifter

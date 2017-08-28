@@ -1,0 +1,21 @@
+golem
+A priest
+A lich
+A mage
+An artisan
+A god
+A demon
+A warlord
+A factory
+A general
+A king
+Nature
+A druid
+An alchemist
+A scholar
+A cultist
+A dragon
+A merchant
+A criminal
+An ealdorman
+An experimentalist

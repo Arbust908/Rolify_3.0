@@ -1,0 +1,11 @@
+beholderGen
+red
+orange
+yellow
+green
+blue
+violet
+pink
+brown
+black
+metallic
