@@ -1,6 +1,6 @@
 dragon
 a dire dragon seemingly mutated someway by fell energies, larger and more violent than even most dragons
-the runt of the litter. It’s smaller than average and weaker, yet more intelligent and stealthy
+the runt of the litter. It's smaller than average and weaker, yet more intelligent and stealthy
 a new parent protecting its eggs. It is proud and excited for them but will protect them to the death
 part of a long family lineage of dragons and trying to live up to the expectations of that
 the survivor of an attack that haunts it. Whatever this attack was, it deeply disturbs the dragon whenever anything similar happens. For example, the dragon may freeze and panic around fire
@@ -13,7 +13,7 @@ tainted by celestials making it holy and good. The dragon is worshipped by many 
 a fey dragon, giving it an affinity for the Feywild and to nature. It seems constantly surrounded by flowers and fairies and is quite the trickster
 an energetic builder who has actually tried to make its lair into the perfect dungeon. It will eagerly lure in and tempt people into it. It would even be excited if someone survived the entire dungeon
 a dire dragon seemingly mutated someway by fell energies, larger and more violent than even most dragons
-the runt of the litter. It’s smaller than average and weaker, yet more intelligent and stealthy
+the runt of the litter. It's smaller than average and weaker, yet more intelligent and stealthy
 a new parent protecting its eggs. It is proud and excited for them but will protect them to the death
 part of a long family lineage of dragons and trying to live up to the expectations of that
 the survivor of an attack that haunts it. Whatever this attack was, it deeply disturbs the dragon whenever anything similar happens. For example, the dragon may freeze and panic around fire
@@ -27,15 +27,15 @@ a fey dragon, giving it an affinity for the Feywild and to nature. It seems cons
 an energetic builder who has actually tried to make its lair into the perfect dungeon. It will eagerly lure in and tempt people into it. It would even be excited if someone survived the entire dungeon
 elf-styled mercenary, hunting down either heroes or evildoers. It hunts down these people and takes great pride in killing them
 fond of meditation and has spent years reaching inner enlightenment and tranquility
-very eager to make friends. Although making friends for a dragon often involves ‘playing’ with them in ways similar to a cat playing with a mouse
+very eager to make friends. Although making friends for a dragon often involves ï¿½playingï¿½ with them in ways similar to a cat playing with a mouse
 trying to become the most infamous dragon in the entire realm, almost to the extent of making itself a brand
-part of a pair mated for life. They’re very unwilling to separate
+part of a pair mated for life. Theyï¿½re very unwilling to separate
 actually very stealthy. It will lay traps, bait an enemy, and then attack from the shadows
 undead but trying to cling to what it once was without losing its soul and its mind
 fond of meditation and has spent years reaching inner enlightenment and tranquility
-very eager to make friends. Although making friends for a dragon often involves ‘playing’ with them in ways similar to a cat playing with a mouse
+very eager to make friends. Although making friends for a dragon often involves ï¿½playingï¿½ with them in ways similar to a cat playing with a mouse
 trying to become the most infamous dragon in the entire realm, almost to the extent of making itself a brand
-part of a pair mated for life. They’re very unwilling to separate
+part of a pair mated for life. Theyï¿½re very unwilling to separate
 actually very stealthy. It will lay traps, bait an enemy, and then attack from the shadows
 undead but trying to cling to what it once was without losing its soul and its mind
 not afraid of using technology. It has learnt from rock gnomes various steam and clockwork powered technologies, and it has created several auto turrets to use in its defenses
@@ -54,11 +54,11 @@ a king of a small land. The dragon wears a crown, and may be a harsh king, but t
 very interested in medicine and will heal and fix up anyone near death, even those trying to kill it. They will then keep them in a dungeon until they regain strength
 almost entirely feral and primal
 fond of living in animal form, experiencing the wild. It has picked up many animal-like traits due to this
-extremely intelligent, or thinks it is. It tries to use its mind to solve problems, and, of course, it thinks it’s better at this than everyone else
+extremely intelligent, or thinks it is. It tries to use its mind to solve problems, and, of course, it thinks it's better at this than everyone else
 very charming and charismatic. It will actually talk its way out of, or into, sticky situations
 almost entirely feral and primal
 fond of living in animal form, experiencing the wild. It has picked up many animal-like traits due to this
-extremely intelligent, or thinks it is. It tries to use its mind to solve problems, and, of course, it thinks it’s better at this than everyone else
+extremely intelligent, or thinks it is. It tries to use its mind to solve problems, and, of course, it thinks it's better at this than everyone else
 very charming and charismatic. It will actually talk its way out of, or into, sticky situations
 not a blood-born dragon, but it was created by magic or some other source. This makes it confused about its life and creation
 adopted. As a wyrmling, it was raised by mortals. If they were kind, the dragon loves mortals. If they were cruel, the dragon harbors a hatred for mortals that borders on madness
@@ -71,30 +71,30 @@ extremely fast and agile, but not particularly strong. The dragon is able to dis
 slow, lumbering, but deadly. When this dragon eventually gets to combat, its blows are highly destructive
 honorable. It has a strange honor code, only ever wanting to fight when it follows its precise set of rules. When people break this code, the dragon gets angry and unleashes its true power
 a member of a community. The dragon is part of a large community of friendly, or not so friendly dragons, who send messages and gifts to each other on a regular basis
-sleeping. It hibernates for centuries at a time… leading to a lot of confusion. Its snoring is so loud it is mistaken for wind
-sleeping. It hibernates for centuries at a time… leading to a lot of confusion. Its snoring is so loud it is mistaken for wind
-false. The dragon tries to be the opposite alignment of its natural state… While it tries hard, it still feels urges and can lose control
+sleeping. It hibernates for centuries at a timeï¿½ leading to a lot of confusion. Its snoring is so loud it is mistaken for wind
+sleeping. It hibernates for centuries at a timeï¿½ leading to a lot of confusion. Its snoring is so loud it is mistaken for wind
+false. The dragon tries to be the opposite alignment of its natural stateï¿½ While it tries hard, it still feels urges and can lose control
 a singer and composer. It considers itself a master bard and will write songs and music. The music may be good, but dragons are not the best at singing or playing the lute
-cursed with vampirism. While this doesn’t work exactly the same as with humanoids, it has given the dragon a ceaseless hunger for blood
-cursed with lycanthropy. While it doesn’t work the same as with humanoids, the dragon is amazingly violent beneath a full moon, and it hates silver
+cursed with vampirism. While this doesnï¿½t work exactly the same as with humanoids, it has given the dragon a ceaseless hunger for blood
+cursed with lycanthropy. While it doesnï¿½t work the same as with humanoids, the dragon is amazingly violent beneath a full moon, and it hates silver
 terminally ill and is either trying to help or to hinder the world as much as possible in its dying days
 an exotic merchant. It runs a shop for those customers that are strong enough or clever enough to survive the trip through its lair
 a brilliant mastermind, a game master that plays with its pawns in one huge game, a game of dungeons and dragons
-mostly lawful. It follows ‘the law’ of the land, but it might occasionally stretch laws to allow it do what it wants
+mostly lawful. It follows ï¿½the lawï¿½ of the land, but it might occasionally stretch laws to allow it do what it wants
 greedy but appreciative. It will be kind to those that give it gifts that it deems exciting enough
 a lusty beast, which can be rather dangerous especially when it gets its eye on a party member
 a kingpin. It employs adventurers or mercenaries across the land, giving them funds to do things the dragon is simply to lazy to do
 a glutton for food, drink, and just about everything
 full of pride and vanity. This dragon has trouble looking away from the mirror
 greedy, moreso than most dragons. If anyone has any treasure in any way, the dragon needs it
-lazy. Why do anything when you can rest? It doesn’t want to bother any one as much as it just wants to sleep and be left alone
-vengeful. If someone wrongs this dragon even slightly, it will come at them, their children, their children’s children as well as every town they have been through ever
+lazy. Why do anything when you can rest? It doesnï¿½t want to bother any one as much as it just wants to sleep and be left alone
+vengeful. If someone wrongs this dragon even slightly, it will come at them, their children, their children's children as well as every town they have been through ever
 a guardian. It is protecting a powerful artifact of intense magical power
 lonely, and only wants to find friends
 a bully. It bullies all the other dragons and monsters in the area, becoming their leader
 paranoid. It works intensely on illusions and creates illusionary traps and environments
 a thug. It demands protection money and food from nearby settlements
-very shy. It suffers from severe social anxiety and doesn’t want to talk to anyone
+very shy. It suffers from severe social anxiety and doesnï¿½t want to talk to anyone
 conniving. It enjoys traipsing about in its human form, influencing the entire realm and doing dark dealings
 a homebody. It only leaves its lair during a certain season each year
 a fame-seeker. It wants to die in such a way that legends and songs will be created after it. It may actually try and orchestrate this
