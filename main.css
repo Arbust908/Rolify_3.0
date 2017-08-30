@@ -1,76 +1,106 @@
+.flex-cont{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:0;
+  flex-wrap: wrap;
+}
+
+.flex-magic{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:0;
+  flex-wrap: wrap;
+}
+
 .container{
   margin: 0;
   width: 100%;
   display: grid;
+  grid-template-rows: 100px 50px 1fr 50px ;
   grid-template-columns: 1fr;
-  grid-template-rows: 2fr 1fr 5fr 2fr;
-  grid-template-areas:
-  "navbar"
-  "sidebar"
-  "content"
-  "footer"
 }
 
 .navbar{
-  grid-area: navbar;
+  grid-row: 1 / 2;
+  grid-column: 1 / 2;
   background-color: #c0392b;
   color: #fff;
   display: grid;
+  grid-template: 1fr / 1fr 5fr 1fr ;
+}
 
+h2{
+  font-weight: 400;
+}
+
+.category{
+  display: none;
+  padding: 5px;
 }
 
 .sidebar{
-  grid-area: sidebar;
+  display: grid;
+  grid-row: 2 / 3;
+  grid-column: 1 / 2;
   background-color: #e74c3c;
   color: #fff;
-  display: none;
-
 }
 
 .content{
-  grid-area: content;
-  background-color: #bdc3c7;
   display: grid;
+  grid-row: 3 / 4;
+  grid-column: 1 / 2;
+  background-color: #bdc3c7;
+  padding: 10px;
+}
 
+.roll{
+  margin-right: 5px;
+  width: 100px;
+  background: #e74c3c;
+  border-radius: 10px;
+  margin: 10px;
 }
 
 .footer{
-  grid-area: footer;
   background-color: #c0392b;
   color: #fff;
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: repeat(2, 1fr);
-  grid-template-areas:
-  "rights" "rights" "rights" "rights" "rights"
-  "google" "github" "slack" "youtube" "reddit"
+  grid-row: 4 / 5;
+  grid-column: 1 / 2;
+  grid-template-columns: 1fr;
+  grid-template-rows: 3fr 1fr;
 }
 
 .rights{
-  grid-area: rights;
+  text-align: center;
 }
 
-.fa-google{
-  grid-area: google;
-  color: #f1c40f;
+.masmagia{
+  width: 100%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.fa-github-alt{
-  grid-area: github;
-  color: #9b59b6;
+.social-icon{
+  text-align: center;
+  color: #fff;
+  border-top: 2px;
+  border-color: #34495e;
+  min-width: 40px;
+  min-height: 40px;
+  width:20%;
 }
 
-.fa-slack{
-  grid-area: slack;
-  color: #2ecc71;
-}
+.google{ background-color: #f1c40f; }
 
-.fa-youtube-play{
-  grid-area: youtube;
-  color: #e74c3c;
-}
+.github{ background-color: #9b59b6; }
 
-.fa-reddit-alien{
-  grid-area: reddit;
-  color: #2c3e50;
-}
+.slack{ background-color: #2ecc71; }
+
+.youtube{ background-color: #e74c3c; }
+
+.reddit{ background-color: #2c3e50; }
