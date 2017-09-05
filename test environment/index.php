@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="main.css">
   <link rel="stylesheet" href="query_tablet.css">
   <link rel="stylesheet" href="query_laptop.css">
+  <link rel="stylesheet" href="query_desktop.css">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://use.fontawesome.com/455b8c317a.js"></script>
@@ -66,14 +67,20 @@
     <main class="content">
       <div class="flex-cont">
 
+        <div class="roll">
+          <div class="flex-magic">
+            <img src="locos.png" alt="imagen">
+            <h4>Titulo</h4>
+          </div>
+        </div>
+
         <?php
         for ($i=0; $i < 31 ; $i++) {
           echo
           '
-
           <div class="roll">
             <div class="flex-magic">
-              <img src="" alt="imagen">
+              <img src="locos.png" alt="imagen">
               <h4>Titulo</h4>
             </div>
           </div>
@@ -96,11 +103,21 @@
 
       <div class="flex-magic">
         <div class="masmagia">
-            <a class="google social-icon"><i class="fa fa-google" aria-hidden="true"></i></a>
-            <a class="github social-icon"><i class="fa fa-github-alt" aria-hidden="true"></i></a>
-            <a class="slack social-icon"><i class="fa fa-slack" aria-hidden="true"></i></a>
-            <a class="youtube social-icon"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-            <a class="reddit social-icon"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a>
+            <a href="www.panchoblanco.com.ar" class="google social-icon">
+              <i class="fa fa-google" aria-hidden="true"></i>
+            </a>
+            <a href="www.panchoblanco.com.ar" class="github social-icon">
+              <i class="fa fa-github-alt" aria-hidden="true"></i>
+            </a>
+            <a href="www.panchoblanco.com.ar" class="slack social-icon">
+              <i class="fa fa-slack" aria-hidden="true"></i>
+            </a>
+            <a href="www.panchoblanco.com.ar" class="youtube social-icon">
+              <i class="fa fa-youtube-play" aria-hidden="true"></i>
+            </a>
+            <a href="www.panchoblanco.com.ar" class="reddit social-icon">
+              <i class="fa fa-reddit-alien" aria-hidden="true"></i>
+            </a>
         </div>
       </div>
 
