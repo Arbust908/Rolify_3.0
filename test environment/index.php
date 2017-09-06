@@ -20,13 +20,17 @@
   <div class="container">
     <header class="navbar">
       <div class="flex-magic">
-        <a class="logo prime"><img src="logo.png" alt="Logo"></a>
+        <a href="index.php" class="logo prime">
+          <img src="logo.png" alt="Logo">
+        </a>
       </div>
       <div class="flex-magic">
         <h2 class="nombre">Rolify</h2>
       </div>
         <div class="flex-magic">
-          <a class="logo rand"><img src="unnamed.png" alt="Random"></a>
+          <a href="index.php" class="logo rand">
+            <img src="unnamed.png" alt="Random">
+          </a>
         </div>
     </header>
 
@@ -68,10 +72,10 @@
       <div class="flex-cont">
 
         <div class="roll">
-          <div class="flex-magic">
+          <a href="loco.html" class="flex-magic">
             <img src="locos.png" alt="imagen">
             <h4>Titulo</h4>
-          </div>
+          </a>
         </div>
 
         <?php
@@ -79,10 +83,10 @@
           echo
           '
           <div class="roll">
-            <div class="flex-magic">
+            <a href="loco.html" class="flex-magic">
               <img src="locos.png" alt="imagen">
               <h4>Titulo</h4>
-            </div>
+            </a>
           </div>
           ';
         }
@@ -103,19 +107,19 @@
 
       <div class="flex-magic">
         <div class="masmagia">
-            <a href="www.panchoblanco.com.ar" class="google social-icon">
+            <a href="http://panchoblanco.com.ar/" class="google social-icon">
               <i class="fa fa-google" aria-hidden="true"></i>
             </a>
-            <a href="www.panchoblanco.com.ar" class="github social-icon">
+            <a href="http://panchoblanco.com.ar/" class="github social-icon">
               <i class="fa fa-github-alt" aria-hidden="true"></i>
             </a>
-            <a href="www.panchoblanco.com.ar" class="slack social-icon">
+            <a href="http://panchoblanco.com.ar/" class="slack social-icon">
               <i class="fa fa-slack" aria-hidden="true"></i>
             </a>
-            <a href="www.panchoblanco.com.ar" class="youtube social-icon">
+            <a href="http://panchoblanco.com.ar/" class="youtube social-icon">
               <i class="fa fa-youtube-play" aria-hidden="true"></i>
             </a>
-            <a href="www.panchoblanco.com.ar" class="reddit social-icon">
+            <a href="http://panchoblanco.com.ar/" class="reddit social-icon">
               <i class="fa fa-reddit-alien" aria-hidden="true"></i>
             </a>
         </div>

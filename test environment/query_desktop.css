@@ -40,12 +40,6 @@
     padding: 30px;
   }
 
-  .roll{
-    width: 100px;
-    border-radius: 20px;
-    padding: 15px;
-  }
-
   .footer{
     grid-row: 4 / 5;
     grid-column: 1 / 2;
