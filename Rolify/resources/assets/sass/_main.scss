@@ -63,8 +63,13 @@ a{
     font-size: 2em;
     font-weight: bolder;
     text-transform: capitalize;
-    font-family: 'Cinzel', serif;
+    font-family: $rolifont;
     margin: 0px;
+  }
+  li{
+    list-style: none;
+    color: $blanco;
+    font-family: $rolifont;
   }
 }
 
@@ -114,7 +119,7 @@ a{
       background-color: $principal;
       color: $blanco;
       text-transform: capitalize;
-      font-family: 'Cinzel', serif;
+      font-family: $rolifont;
       margin: 0;
       width: 100%;
       text-align: center;

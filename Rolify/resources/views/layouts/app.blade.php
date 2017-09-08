@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
       <script src="https://use.fontawesome.com/455b8c317a.js"></script>
+      <link href="https://fonts.googleapis.com/css?family=Cinzel:400,900&amp;subset=latin-ext" rel="stylesheet">
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -25,7 +26,7 @@
     <header class="navbar">
       <div class="flex-magic">
         <a href="index.php" class="logo prime">
-          <img src="logo.png" alt="Logo">
+          <img src="{{ asset('imgs/logo.png') }}" alt="Logo">
         </a>
       </div>
       <div class="flex-magic">
@@ -41,8 +42,9 @@
               <li><a href="{{ route('register') }}">Register</a></li>
           @else
               <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-                      {{ Auth::user()->name }} <span class="caret"></span>
+                  <a href="#" class="">
+                      {{ Auth::user()->name }}
+                      <i class="fa fa-user-circle-o" aria-hidden="true"></i>
                   </a>
               </li>
               <li>
