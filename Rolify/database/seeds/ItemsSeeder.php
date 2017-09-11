@@ -1,21 +1,21 @@
 <?php
 
 use Illuminate\Database\Seeder;
+use App\Asset;
 use App\Value;
 use App\Categoria;
-use App\Asset;
 
-class MonstersSeeder extends Seeder
+class ItemsSeeder extends Seeder
 {
-	/**
-	* Run the database seeds.
-	*
-	* @return void
-	*/
-	public function run()
-	{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
 		/* CONFIG: Setea de donde se sacan los archivos */
-		$path = 'seeding/monsters/';	// PATH de la carpeta que contiene los archivos
+		$path = 'seeding/items/';	// PATH de la carpeta que contiene los archivos
 
 		$test = Storage::directories($path);	//Se trae lista de TODOS los subdirectorios
 		$categoria = explode('/', $path)[1];
@@ -61,5 +61,5 @@ class MonstersSeeder extends Seeder
 				}
 			}
 		}
-	}
+    }
 }

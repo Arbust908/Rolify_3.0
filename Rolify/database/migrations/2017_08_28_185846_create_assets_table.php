@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateMonstersTable extends Migration
+class CreateAssetsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,10 +13,11 @@ class CreateMonstersTable extends Migration
      */
     public function up()
     {
-		Schema::create('monsters', function(Blueprint $table) {
+        Schema::create('assets', function(Blueprint $table) {
 			$table->increments('id');
-			$table->string('string');
-			$table->string('tipo');
+			$table->integer('categoria_id')->unsigned()->nullable();
+			$table->foreign('categoria_id')->references('id')->on('categorias');
+			$table->string('asset');
 			$table->string('dado');
 			$table->timestamps();
 		});
@@ -29,6 +30,6 @@ class CreateMonstersTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('monsters');
+        Schema::dropIfExists('assets');
     }
 }

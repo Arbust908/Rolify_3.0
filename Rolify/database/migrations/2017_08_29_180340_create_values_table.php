@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreatePlacesTable extends Migration
+class CreateValuesTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,11 +13,11 @@ class CreatePlacesTable extends Migration
      */
     public function up()
     {
-		Schema::create('places', function(Blueprint $table) {
+        Schema::create('values', function(Blueprint $table) {
 			$table->increments('id');
-			$table->string('string');
-			$table->string('tipo');
-			$table->string('dado');
+			$table->integer('asset_id')->unsigned()->nullable();
+			$table->foreign('asset_id')->references('id')->on('assets');
+			$table->longText('value');
 			$table->timestamps();
 		});
     }
@@ -29,6 +29,6 @@ class CreatePlacesTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('places');
+        Schema::dropIfExists('values');
     }
 }
