@@ -8,11 +8,11 @@
           </div>
 
           <div class="links">
-              <a href="https://flatuicolors.com/">Documentation</a>
-              <a href="https://flatuicolors.com/">Laracasts</a>
-              <a href="https://flatuicolors.com/">News</a>
-              <a href="https://flatuicolors.com/">Forge</a>
-              <a href="https://flatuicolors.com/">GitHub</a>
+              <a href="{{ url('/about') }}">About</a>
+              <a href="{{ url('/tables') }}">Tables</a>
+              <a href="{{ url('/monster')}}">Monster Manual</a>
+              {{-- <a href="https://flatuicolors.com/">Forge</a>
+              <a href="https://flatuicolors.com/">GitHub</a> --}}
           </div>
       </div>
   </div>

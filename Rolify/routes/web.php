@@ -23,14 +23,15 @@ Route::get('/tables', function () {
     return view('welcome');
 });
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
-Route::get('/randomencounter', 'MonstersController@randomEncounter');
+Route::get('/randomencounter', 'MonsterTablesController@randomEncounter');
 
-Route::get('/legendarybeast', 'MonstersController@legendaryBeast');
+Route::get('/legendarybeast', 'MonsterTablesController@legendaryBeast');
 
 Auth::routes();
+
+Route::resource('monster', 'MonsterController');
+
+Route::resource('item', 'ItemController');
 
 Route::get('/home', 'HomeController@index')->name('home');

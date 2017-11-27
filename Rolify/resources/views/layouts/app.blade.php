@@ -4,9 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-      <script src="https://use.fontawesome.com/455b8c317a.js"></script>
-      <link href="https://fonts.googleapis.com/css?family=Cinzel:400,900&amp;subset=latin-ext" rel="stylesheet">
-
+    <script src="https://use.fontawesome.com/455b8c317a.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Cinzel:400,900&amp;subset=latin-ext" rel="stylesheet">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
@@ -25,7 +26,7 @@
 <!-- Barra de Nav -->
     <header class="navbar">
       <div class="flex-magic">
-        <a href="index.php" class="logo prime">
+        <a href="{{ url('/') }}" class="logo prime">
           <img src="{{ asset('imgs/logo.png') }}" alt="Logo">
         </a>
       </div>
